@@ -1,5 +1,7 @@
 This is POC 
 
-RUN 
+RUN :
+
 npm run build
+
 npm run start
